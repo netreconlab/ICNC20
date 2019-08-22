@@ -1,4 +1,4 @@
-# TESCA19
+# ICNC20
 
 This repository contains a *light-weight simulator used to illustrate the use of Delay Tolerant Networks as a supplement for Cloud Connectivity for Rural Remote Patient Monitoring. 
 
